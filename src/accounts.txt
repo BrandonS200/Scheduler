@@ -1,0 +1,5 @@
+1715057, password123, manager, John Doe
+4161258, mySecurePass, worker, Jane Smith
+2181890, random123, worker, Alice Johnson
+6740427, test12345, worker, Jane Smith
+

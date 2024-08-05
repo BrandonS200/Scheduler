@@ -1,0 +1,2 @@
+2024-08-05: John Doe 09:00-17:00, Jane Smith 10:00-18:00, Alice Johnson 08:00-16:00
+2024-08-06: John Doe 09:00-17:00, Jane Smith 10:00-18:00, Alice Johnson 08:00-16:00
